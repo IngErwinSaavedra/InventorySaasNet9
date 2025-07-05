@@ -1,0 +1,11 @@
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/SharedKernel.AssemblyInfoInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/SharedKernel.AssemblyInfo.cs
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/SharedKernel.csproj.CoreCompileInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/bin/Debug/net9.0/SharedKernel.deps.json
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/bin/Debug/net9.0/SharedKernel.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/bin/Debug/net9.0/SharedKernel.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/SharedKernel.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/refint/SharedKernel.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/SharedKernel.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/SharedKernel/obj/Debug/net9.0/ref/SharedKernel.dll

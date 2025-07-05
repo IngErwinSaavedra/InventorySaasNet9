@@ -1,0 +1,17 @@
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.csproj.AssemblyReference.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.AssemblyInfoInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.AssemblyInfo.cs
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.deps.json
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.runtimeconfig.json
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Infrastructure.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/bin/Debug/net9.0/InventoryService.Domain.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/Inventor.7CFDF49E.Up2Date
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/refint/InventoryService.Infrastructure.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/InventoryService.Infrastructure.genruntimeconfig.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/Debug/net9.0/ref/InventoryService.Infrastructure.dll

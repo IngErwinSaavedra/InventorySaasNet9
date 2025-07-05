@@ -1,0 +1,11 @@
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.deps.json
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/bin/Debug/net9.0/InventoryService.Domain.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.AssemblyInfoInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.AssemblyInfo.cs
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.csproj.CoreCompileInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/refint/InventoryService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/InventoryService.Domain.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/Debug/net9.0/ref/InventoryService.Domain.dll

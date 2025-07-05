@@ -1,0 +1,12 @@
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/bin/Debug/net9.0/IdentityService.Domain.deps.json
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/bin/Debug/net9.0/IdentityService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/bin/Debug/net9.0/IdentityService.Domain.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.csproj.AssemblyReference.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.AssemblyInfoInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.AssemblyInfo.cs
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.csproj.CoreCompileInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/refint/IdentityService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/IdentityService.Domain.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/IdentityService/IdentityService.Domain/obj/Debug/net9.0/ref/IdentityService.Domain.dll

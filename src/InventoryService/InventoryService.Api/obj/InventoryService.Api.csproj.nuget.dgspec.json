@@ -1,0 +1,337 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Api/InventoryService.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Api/InventoryService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Api/InventoryService.Api.csproj",
+        "projectName": "InventoryService.Api",
+        "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Api/InventoryService.Api.csproj",
+        "packagesPath": "/Users/erwinsaavedra/.nuget/packages/",
+        "outputPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erwinsaavedra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/InventoryService.Application.csproj": {
+                "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/InventoryService.Application.csproj"
+              },
+              "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              },
+              "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj": {
+                "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.13, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/InventoryService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/InventoryService.Application.csproj",
+        "projectName": "InventoryService.Application",
+        "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/InventoryService.Application.csproj",
+        "packagesPath": "/Users/erwinsaavedra/.nuget/packages/",
+        "outputPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erwinsaavedra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+        "projectName": "InventoryService.Domain",
+        "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj",
+        "packagesPath": "/Users/erwinsaavedra/.nuget/packages/",
+        "outputPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erwinsaavedra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj",
+        "projectName": "InventoryService.Infrastructure",
+        "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/InventoryService.Infrastructure.csproj",
+        "packagesPath": "/Users/erwinsaavedra/.nuget/packages/",
+        "outputPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/erwinsaavedra/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj": {
+                "projectPath": "/Users/erwinsaavedra/Desktop/dev/Net/InventorySaaS/src/InventoryService/InventoryService.Domain/InventoryService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

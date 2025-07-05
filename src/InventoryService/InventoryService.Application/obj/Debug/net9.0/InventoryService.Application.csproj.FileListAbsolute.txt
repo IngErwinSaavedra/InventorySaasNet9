@@ -1,0 +1,15 @@
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Application.deps.json
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Application.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Application.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Domain.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/bin/Debug/net9.0/InventoryService.Domain.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.csproj.AssemblyReference.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.AssemblyInfoInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.AssemblyInfo.cs
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.csproj.CoreCompileInputs.cache
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/Inventor.DFE2E32E.Up2Date
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/refint/InventoryService.Application.dll
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/InventoryService.Application.pdb
+/Users/erwinsaavedra/Desktop/Dev/Net/InventorySaaS/src/InventoryService/InventoryService.Application/obj/Debug/net9.0/ref/InventoryService.Application.dll
